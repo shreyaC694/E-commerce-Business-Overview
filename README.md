@@ -1,9 +1,13 @@
 # E-commerce-Business-Overview
-Interactive Power BI dashboard analyzing e-commerce sales performance, product trends, and regional profitability using Power Query and DAX
+## Interactive Power BI dashboard analyzing e-commerce sales performance, product trends, and regional profitability using Power Query and DAX
 
 
 What is this?
 I built an interactive dashboard in Power BI that helps an online store understand its sales and profits. It turns messy Excel data into clear charts so a business can see what’s working and what isn’t.
+
+## Dataset used
+- <a href="https://github.com/shreyaC694/E-commerce-Business-Overview/blob/main/Product.xlsx"> Dataset</a>
+-<a href="https://github.com/shreyaC694/E-commerce-Business-Overview/blob/main/Customer.xlsx"> Dataset</a>
 What does it show?
 •	Best & Worst Sellers: The top 5 and bottom 5 products by sales
 •	Money Matters: Total sales, total profit, and profit margins.
