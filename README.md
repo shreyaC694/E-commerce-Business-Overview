@@ -26,7 +26,8 @@ Tools I used
 •	Power BI: To create the charts and dashboard
 
 •	Power Query: To clean up the data and join different tables together
-•	DAX: To write custom formulas for things like "Profit Margin".
+
+•	DAX: To write custom formulas for things like "Profit Margin"
 How to use it
 1.	Open the .pbix file in Power BI Desktop.
 2.	Use the Filters at the top to change the view by Year or Region.
