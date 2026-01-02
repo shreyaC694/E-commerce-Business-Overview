@@ -8,6 +8,7 @@ I built an interactive dashboard in Power BI that helps an online store understa
 ## Dataset used
 - <a href="https://github.com/shreyaC694/E-commerce-Business-Overview/blob/main/Product.xlsx"> Dataset</a>
 -<a href="https://github.com/shreyaC694/E-commerce-Business-Overview/blob/main/Customer.xlsx"> Dataset</a>
+
 What does it show?
 •	Best & Worst Sellers: The top 5 and bottom 5 products by sales
 •	Money Matters: Total sales, total profit, and profit margins.
